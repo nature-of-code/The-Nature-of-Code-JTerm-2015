@@ -34,6 +34,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Uploading to server](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/SFTP-Tutorial)
 * Basics of blogging
   * Introduction to wordpress
+  * Your blog is at yournetid.imnyuad.com/blog.  Follow the install instructions at that link (it should be fairly self explanatory).  If you are stuck you can watch this [video walkthrough](https://www.dropbox.com/s/mz1tt4guamnmgl9/wordpress.mov?dl=0).
+  * [If you want to get a bit more into wordpress, you can start here](http://codex.wordpress.org/First_Steps_With_WordPress).
 * What is git and github?
 * Reading / Watching
   * Read p. 8-41 of Form + Code
