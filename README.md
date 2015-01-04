@@ -54,7 +54,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Class 7 - Day Trip to Science Museum -- Tues, 1/13/15
 * Details TBA
 
-## Class 8 - [Data] -- Wed, 1/14/15
+## Class 8 - Data -- Wed, 1/14/15
 * Field Trip: [Hirsch and Mann](http://www.hirschandmann.com/)
 
 ## Class 9 - Physics -- Thurs, 1/15/15
