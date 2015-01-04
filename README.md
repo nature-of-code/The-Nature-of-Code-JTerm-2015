@@ -18,7 +18,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * What is the potential for software within the visual arts?
   * As a designer or artist, why would I want or need to write software?
 * Processing Exhibition
-* Sol Lewitt: http://www.massmoca.org/lewitt/
+* [Sol Lewitt](http://www.massmoca.org/lewitt/)
 * Drawing with numbers
   * Coordinate Systems
   * Shapes
