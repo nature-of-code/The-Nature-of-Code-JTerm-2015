@@ -44,25 +44,33 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ## Class 4 -- Repetition and Reproduction -- Thurs, 1/8/15
 
-## Class 5 -- Images Part 1 -- Fri, 1/9/15
+## Class 5 -- Day Trip to Bletchley Park -- Fri, 1/9/15
+* [Bletchley Park](http://www.bletchleypark.org.uk/)
+* 8:55 am, meet at Guilford House
+* Estimated return: 4:30pm
 
-## Class 6 -- Images Part 2 -- Mon, 1/12/15
+## Class 6 -- Images -- Mon, 1/12/15
 
-## Class 7 - Introduction to Motion, Physics -- Tues, 1/13/15
+## Class 7 - Day Trip to Science Museum -- Tues, 1/13/15
+* Details TBA
 
-## Class 8 - Autonomous Agents, Complex Systems -- Wed, 1/14/13
+## Class 8 - [Data] -- Wed, 1/14/15
+* Field Trip: [Hirsch and Mann](http://www.hirschandmann.com/)
 
-## Class 9 - Final Project Discussion + AMNH -- Thurs, 1/15/13
+## Class 9 - Physics -- Thurs, 1/15/15
+* Note class will meet in afternoon instead of morning
 
-## Class 10 - 
+## Class 10 - Agents / Complexity -- Fri, 1/16/15
+* Note class will meet in afternoon instead of morning
 
-## Class 11 -
+## Class 11 - Fractals / CA -- Mon, 1/19/15
 
-## Class 12 - Evolutionary Computing + Final Project Workshop - Wed, 1/21/12
+## Class 12 - Evolutionary Computing -- Tues, 1/20/15
 
-## Class 13 - Final Project Presentations - Thurs, 1/22/12
+## Class 13 - Final Project Workshop -- Wed, 1/21/12
 
-## Class 14 - Wrap-Up - 1/23/12
+## Class 14 - Final Project Presentations - Thurs, 1/22/15
+
 
 ## Expectations
 * Assignments will include readings, programming exercises, and written documentation of your work.
