@@ -13,36 +13,47 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Field Trip schedule TBA())
 
 ## Class 1 -- Introduction -- Mon, 1/5/15
-* Form + Code
-  * How has software affected the visual arts?
+* What is computational media?
+  * What is programming?
+  * How can I apply programming to my field of interest?
+  * [Example projects](https://github.com/ITPNYU/ICM-2014/wiki/Projects).
   * What is the potential for software within the visual arts?
-  * As a designer or artist, why would I want or need to write software?
-* Processing Exhibition
-* Sol Lewitt: http://www.massmoca.org/lewitt/
+  * As a ____________, why would I want or need to write software?
+* Programming language discussion
+  * history of Processing and p5.js (and processing.js?)
 * Drawing with numbers
   * Coordinate Systems
   * Shapes
   * Color
   * Code
-  * p5.js
+  * [Sol Lewitt](http://www.massmoca.org/lewitt/)
+* p5.js
+  * [Tutorial: Getting started with p5.js](http://p5js.org/get-started/) - Set up your files for editing and viewing.
 * Basics of web development
-  * What is HTML, CSS, and JavaScript?
-  * Running things locally
-  * Uploading to server
+  * Landscape of HTML, CSS, and JavaScript?
+  * [Running things locally](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Local-Server-Tutorial)
+  * [Uploading to server](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/SFTP-Tutorial)
 * Basics of blogging
   * Introduction to wordpress
 * What is git and github?
-* Related Reading
-  * Chapters 1-2, Learning Processing
-  * Chapters 1-3, Getting Started with Processing
-  * p.8-41, Form + Code
+* Reading / Watching
+  * Read p. 8-41 of Form + Code
+  * Supplemental
+     * This course is now taught with JavaScript and p5.js rather than Processing.  The material in the following chapters and videos mirrors the content we do in class, however it is in a different language.  I leave it up to you whether you find this helpful to look at or not. 
+     * Chapters 1-2, Learning Processing
+     * Chapters 1-3, Getting Started with Processing
+     * [Videos 0.0-2.1](http://icm.shiffman.net/0.0)
+  * p. 8-41, Form + Code
 * [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-1)
 
 ## Class 2 -- Animation and Interaction -- Tues, 1/6/15
+* Homework 2
 
 ## Class 3 -- Functions & Objects -- Wed, 1/7/15
+* Homework 3
 
 ## Class 4 -- Repetition and Reproduction -- Thurs, 1/8/15
+* Homework 4
 
 ## Class 5 -- Day Trip to Bletchley Park -- Fri, 1/9/15
 * [Bletchley Park](http://www.bletchleypark.org.uk/)
@@ -50,22 +61,28 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Estimated return: 4:30pm
 
 ## Class 6 -- Images -- Mon, 1/12/15
+* Homework 5
 
 ## Class 7 - Day Trip to Science Museum -- Tues, 1/13/15
 * Details TBA
 
 ## Class 8 - [Data] -- Wed, 1/14/15
+* Homework 6
 * Field Trip: [Hirsch and Mann](http://www.hirschandmann.com/)
 
 ## Class 9 - Physics -- Thurs, 1/15/15
+* Homework 7
 * Note class will meet in afternoon instead of morning
 
 ## Class 10 - Agents / Complexity -- Fri, 1/16/15
+* Homework 8
 * Note class will meet in afternoon instead of morning
 
 ## Class 11 - Fractals / CA -- Mon, 1/19/15
+* Final Project Proposal
 
 ## Class 12 - Evolutionary Computing -- Tues, 1/20/15
+* Final Project Proposal
 
 ## Class 13 - Final Project Workshop -- Wed, 1/21/12
 
