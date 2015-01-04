@@ -10,7 +10,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Credit Hours 4
 * [Class google group for discussion / questions / announcements](https://groups.google.com/a/itp.nyu.edu/group/nature-of-code-abu-dhabi?hl=en)
 * [Homework wiki](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki)
-* [Field Trip schedule TBA())
+* [Field Trip schedule TBA]()
 
 ## Class 1 -- Introduction -- Mon, 1/5/15
 * What is computational media?
@@ -66,8 +66,12 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Class 7 - Day Trip to Science Museum -- Tues, 1/13/15
 * Details TBA
 
+<<<<<<< HEAD
 ## Class 8 - [Data] -- Wed, 1/14/15
 * Homework 6
+=======
+## Class 8 - Data -- Wed, 1/14/15
+>>>>>>> eba24b0ac560c85ca9af2fda31ba44d81e786afe
 * Field Trip: [Hirsch and Mann](http://www.hirschandmann.com/)
 
 ## Class 9 - Physics -- Thurs, 1/15/15
