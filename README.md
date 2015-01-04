@@ -12,6 +12,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Field Trip schedule TBA]()
 
 ## Class 1 -- Introduction -- Mon, 1/5/15
+* Meets 2-5pm today (as to not conflict with morning orientation).
 * What is computational media?
   * What is programming?
   * How can I apply programming to my field of interest?
