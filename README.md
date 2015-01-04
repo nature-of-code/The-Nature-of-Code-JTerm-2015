@@ -92,7 +92,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Expectations
 * Assignments will include readings, programming exercises, and written documentation of your work.
 * Each student will be required to post their homework to the class blog (instructions provided in class).
-* Over the course of the term, you should have completed nine blog posts (8 exercises, 1 final project proposal, 1 final project summary). In total this should amount to at least 7,000 words (equivalent to 18 double-spaced pages.) Each blog post should contain a written response to material presented in class (specific questions will be provided), a description of your homework assignment, and questions regarding the technical material.
+* Over the course of the term, you should have completed ten blog posts (8 exercises, 1 final project proposal, 1 final project summary). In total this should amount to at least 7,000 words (equivalent to 18 double-spaced pages.) Each blog post should contain a written response to material presented in class (specific questions will be provided), a description of your homework assignment, and questions regarding the technical material.
 * For your final project proposal and summary, you will be required to write about your project concept and project development process.
 * Students will be expected to collaborate, to document their work, to make presentations and to discuss their ideas regularly in class.
 
