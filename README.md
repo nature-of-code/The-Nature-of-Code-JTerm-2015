@@ -43,9 +43,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * Supplemental
      * This course is now taught with JavaScript and p5.js rather than Processing.  The material in the following chapters and videos mirrors the content we do in class, however it is in a different language.  I leave it up to you whether you find this helpful to look at or not. 
      * Chapters 1-2, Learning Processing
-     * Chapters 1-3, Getting Started with Processing
      * [Videos 0.0-2.1](http://icm.shiffman.net/0.0)
-  * p. 8-41, Form + Code
 * [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-1)
 
 ## Class 2 -- Animation and Interaction -- Tues, 1/6/15
