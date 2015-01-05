@@ -1,8 +1,7 @@
 # The Nature of Code, NYUAD, JTerm 2015, London
 
-Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world world help us to create digital worlds? This class focuses on the programming strategies and techniques behind computer simulations of natural systems. We explore topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered include forces, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms. No computer programming experience is required, the course will start with the basics of code using the HTML, CSS, and JavaScript (with the [p5js](http://p5js.org/) framework. In addition to learning technical skills and discussing scientific concepts, students will have the opportunity to visit science museums, art galleries, and artist studios in the London area. 
+Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world world help us to create digital worlds? This class focuses on the programming strategies and techniques behind computer simulations of natural systems. We explore topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered include forces, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms. No computer programming experience is required, the course will start with the basics of code using HTML, CSS, and JavaScript (with the [p5js](http://p5js.org/) framework). In addition to learning technical skills and discussing scientific concepts, students will have the opportunity to visit science museums, art galleries, and artist studios in the London area. 
 
-## Key info
 * Daniel Shiffman, daniel dot shiffman at nyu dot edu
 * Course Number: COREA-AD 17J (Cross-listed with Interactive Media and Technology)
 * Meets daily: 10am - 1pm
@@ -13,6 +12,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Field Trip schedule TBA]()
 
 ## Class 1 -- Introduction -- Mon, 1/5/15
+* Meets 2-5pm today (as to not conflict with morning orientation).
 * What is computational media?
   * What is programming?
   * How can I apply programming to my field of interest?
@@ -35,15 +35,15 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Uploading to server](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/SFTP-Tutorial)
 * Basics of blogging
   * Introduction to wordpress
+  * Your blog is at yournetid.imnyuad.com/blog.  Follow the install instructions at that link (it should be fairly self explanatory).  If you are stuck you can watch this [video walkthrough](https://www.dropbox.com/s/mz1tt4guamnmgl9/wordpress.mov?dl=0).
+  * [If you want to get a bit more into wordpress, you can start here](http://codex.wordpress.org/First_Steps_With_WordPress).
 * What is git and github?
 * Reading / Watching
   * Read p. 8-41 of Form + Code
   * Supplemental
      * This course is now taught with JavaScript and p5.js rather than Processing.  The material in the following chapters and videos mirrors the content we do in class, however it is in a different language.  I leave it up to you whether you find this helpful to look at or not. 
      * Chapters 1-2, Learning Processing
-     * Chapters 1-3, Getting Started with Processing
      * [Videos 0.0-2.1](http://icm.shiffman.net/0.0)
-  * p. 8-41, Form + Code
 * [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-1)
 
 ## Class 2 -- Animation and Interaction -- Tues, 1/6/15
@@ -66,12 +66,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Class 7 - Day Trip to Science Museum -- Tues, 1/13/15
 * Details TBA
 
-<<<<<<< HEAD
-## Class 8 - [Data] -- Wed, 1/14/15
-* Homework 6
-=======
 ## Class 8 - Data -- Wed, 1/14/15
->>>>>>> eba24b0ac560c85ca9af2fda31ba44d81e786afe
 * Field Trip: [Hirsch and Mann](http://www.hirschandmann.com/)
 
 ## Class 9 - Physics -- Thurs, 1/15/15
@@ -96,7 +91,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Expectations
 * Assignments will include readings, programming exercises, and written documentation of your work.
 * Each student will be required to post their homework to the class blog (instructions provided in class).
-* Over the course of the term, you should have completed nine blog posts (8 exercises, 1 final project proposal, 1 final project summary). In total this should amount to at least 7,000 words (equivalent to 18 double-spaced pages.) Each blog post should contain a written response to material presented in class (specific questions will be provided), a description of your homework assignment, and questions regarding the technical material.
+* Over the course of the term, you should have completed ten blog posts (8 exercises, 1 final project proposal, 1 final project summary). In total this should amount to at least 7,000 words (equivalent to 18 double-spaced pages.) Each blog post should contain a written response to material presented in class (specific questions will be provided), a description of your homework assignment, and questions regarding the technical material.
 * For your final project proposal and summary, you will be required to write about your project concept and project development process.
 * Students will be expected to collaborate, to document their work, to make presentations and to discuss their ideas regularly in class.
 
