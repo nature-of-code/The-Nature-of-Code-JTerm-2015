@@ -27,12 +27,17 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * What is git and github?
 
 ## Class 2 -- Drawing and Animation -- Tues, 1/6/15
-* Drawing with numbers
+* [Drawing with numbers](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp01_drawing)
   * Coordinate Systems
   * Shapes
   * Color
   * Code
   * [Sol Lewitt](http://www.massmoca.org/lewitt/)
+* [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
+* Variation: mouseX, mouseY
+* [Variables: Declare, Initialize, Use](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp04_variables)
+* [random()](http://processing.org/reference/random_.html)
+* [map()](http://processing.org/reference/map_.html) 
 * FTPing to server
   * [Uploading to server](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/SFTP-Tutorial)
 * Basics of blogging
