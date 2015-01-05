@@ -21,23 +21,26 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * As a ____________, why would I want or need to write software?
 * Programming language discussion
   * history of Processing and p5.js (and processing.js?)
+* Basics of web development
+  * Landscape of HTML, CSS, and JavaScript?
+  * [Running things locally](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Local-Server-Tutorial)
+* What is git and github?
+
+## Class 2 -- Drawing and Animation -- Tues, 1/6/15
 * Drawing with numbers
   * Coordinate Systems
   * Shapes
   * Color
   * Code
   * [Sol Lewitt](http://www.massmoca.org/lewitt/)
-* p5.js
-  * [Tutorial: Getting started with p5.js](http://p5js.org/get-started/) - Set up your files for editing and viewing.
-* Basics of web development
-  * Landscape of HTML, CSS, and JavaScript?
-  * [Running things locally](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Local-Server-Tutorial)
+* FTPing to server
   * [Uploading to server](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/SFTP-Tutorial)
 * Basics of blogging
   * Introduction to wordpress
   * Your blog is at yournetid.imnyuad.com/blog.  Follow the install instructions at that link (it should be fairly self explanatory).  If you are stuck you can watch this [video walkthrough](https://www.dropbox.com/s/mz1tt4guamnmgl9/wordpress.mov?dl=0).
   * [If you want to get a bit more into wordpress, you can start here](http://codex.wordpress.org/First_Steps_With_WordPress).
-* What is git and github?
+* p5.js
+  * [Tutorial: Getting started with p5.js](http://p5js.org/get-started/) - Set up your files for editing and viewing.
 * Reading / Watching
   * Read p. 8-41 of Form + Code
   * Supplemental
@@ -45,9 +48,6 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
      * Chapters 1-2, Learning Processing
      * [Videos 0.0-2.1](http://icm.shiffman.net/0.0)
 * [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-1)
-
-## Class 2 -- Animation and Interaction -- Tues, 1/6/15
-* Homework 2
 
 ## Class 3 -- Functions & Objects -- Wed, 1/7/15
 * Homework 3
