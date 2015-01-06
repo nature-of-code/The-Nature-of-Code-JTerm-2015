@@ -36,8 +36,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
 * Variation: mouseX, mouseY
 * [Variables: Declare, Initialize, Use](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp04_variables)
-* [random()](http://processing.org/reference/random_.html)
-* [map()](http://processing.org/reference/map_.html) 
+* [random()](http://p5js.org/reference/#/p5/random)
+* [map()](http://p5js.org/reference/#/p5/map) 
 * FTPing to server
   * [Uploading to server](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/SFTP-Tutorial)
 * Basics of blogging
