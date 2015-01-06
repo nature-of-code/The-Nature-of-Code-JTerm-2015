@@ -74,13 +74,16 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - [Fractals](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
   - Event functions
     - [MousePressed & KeyPressed](http://www.learningprocessing.com/examples/chapter-3/example-3-5/)
+- [More on randomness and Perlin Noise]()
 - Intro to Objects
 - Reading
-    - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
+  - Chapter 8 of Learning Processing or [Processing OOP tutorial](https://processing.org/tutorials/objects/)
+  - [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
+  - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
 * [Homework 2](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-2)
 
 ## Class 4 -- Objects and Reproduction -- Thurs, 1/8/15
-* Homework 4
+* Homework 3
 
 ## Class 5 -- Day Trip to Bletchley Park -- Fri, 1/9/15
 * [Bletchley Park](http://www.bletchleypark.org.uk/)
@@ -88,13 +91,12 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Estimated return: 4:30pm
 
 ## Class 6 -- Images -- Mon, 1/12/15
-* Homework 5
+* Homework 4
 
-## Class 7 - Day Trip to Science Museum -- Tues, 1/13/15
-* Details TBA
+## Class 7 -- TBA -- Tues, 1/13/15
 
 ## Class 8 - Data -- Wed, 1/14/15
-* Studio visit to [Random International](http://random-international.com/) and also possibly the [V&A Museum](http://www.vam.ac.uk/).
+* Studio visit to [Random International](http://random-international.com/) and the [V&A Museum](http://www.vam.ac.uk/).
 
 ## Class 9 - Physics -- Thurs, 1/15/15
 * Homework 7
