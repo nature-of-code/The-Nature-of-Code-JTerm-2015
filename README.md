@@ -72,10 +72,11 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Details TBA
 
 ## Class 8 - Data -- Wed, 1/14/15
-* Field Trip: [Hirsch and Mann](http://www.hirschandmann.com/)
+* Studio visit to [Random International](http://random-international.com/) and also possibly the [V&A Museum](http://www.vam.ac.uk/).
 
 ## Class 9 - Physics -- Thurs, 1/15/15
 * Homework 7
+* Guest speaker: [Stefanie Posavec](http://www.stefanieposavec.co.uk/)
 * Note class will meet in afternoon instead of morning
 
 ## Class 10 - Agents / Complexity -- Fri, 1/16/15
