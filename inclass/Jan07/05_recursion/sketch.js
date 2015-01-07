@@ -10,6 +10,7 @@ function draw() {
 
 }
 
+// Recursive function that calls itself!
 function displayCircle(x,y,d) {
   noFill();
   stroke(255);

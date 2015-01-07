@@ -13,10 +13,14 @@ function draw() {
   fill(c);
   ellipse(x,100,24,24);
   x = x + speed;
-
+  
+  // If we reach the right edge
   if (x > width) {
+    // Make sure we don't get stuck offscreen
     x = width;
+    // Pick a new color
     c = color(random(255),random(255),random(255));
+    // Reverse and dampen speed
     speed = speed * -0.9;
   } else if (x < 0) {
     x = 0;

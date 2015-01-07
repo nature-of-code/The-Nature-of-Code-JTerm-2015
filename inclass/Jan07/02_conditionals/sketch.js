@@ -4,7 +4,9 @@ function setup() {
 }
 
 function draw() {
-
+  
+  // Only one of these can be executed
+  // the first one that is true
   if (mouseX > 150) {
     background(255,0,0);
   } else if (mouseX > 50) {
