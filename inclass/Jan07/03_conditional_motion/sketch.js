@@ -1,18 +1,26 @@
 
 var x = 100;
-var speed = 5;
+var speed = 10;
+var c;
 
 function setup() {
-  createCanvas(600, 400);
+  createCanvas(300, 200);
+  c = color(0, 255, 0);
 }
 
 function draw() {
   background(0);
-  ellipse(x,200,100,100);
+  fill(c);
+  ellipse(x,100,24,24);
   x = x + speed;
-}
 
-function mousePressed() {
-  speed = -5;
+  if (x > width) {
+    x = width;
+    c = color(random(255),random(255),random(255));
+    speed = speed * -0.9;
+  } else if (x < 0) {
+    x = 0;
+    speed = speed * -0.9;
+  }
 }
 
