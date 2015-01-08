@@ -55,15 +55,13 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Homework 1](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-1)
 
 ## Class 3 -- Interaction and Functions -- Wed, 1/7/15
+- [Transformations](https://processing.org/tutorials/transform2d/)
+  - [in class example](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/tree/master/inclass/Jan07/01_transformation)
 - [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
     - If, else if, else
     - Boolean variables
     - Relational Operators, Logical Operators
     - Buttons, rollovers, switches
-- [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
-    - while
-    - for
-- Modulo
 - [Functions](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions)
   - Re-usability
   - Modularity
@@ -83,6 +81,15 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * [Homework 2](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-2)
 
 ## Class 4 -- Objects and Reproduction -- Thurs, 1/8/15
+- [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
+  - while
+  - for
+- Modulo
+- [Objects](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp08_objects)
+  - Principles and Theory (Encapsulation)
+  - JS literal object
+  - Object "constructor" function
+- [Arrays](https://github.com/shiffman/LearningProcessing/tree/master/chp09_arrays-p5.js)
 * Homework 3
 
 ## Class 5 -- Day Trip to Bletchley Park -- Fri, 1/9/15
