@@ -90,7 +90,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   - JS literal object
   - Object "constructor" function
 - [Arrays](https://github.com/shiffman/LearningProcessing/tree/master/chp09_arrays-p5.js)
-* Homework 3
+* [Homework 3](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-3)
 
 ## Class 5 -- Day Trip to Bletchley Park -- Fri, 1/9/15
 * [Bletchley Park](http://www.bletchleypark.org.uk/)
