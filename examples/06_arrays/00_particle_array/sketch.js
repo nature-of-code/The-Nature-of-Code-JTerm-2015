@@ -1,8 +1,8 @@
-Particle[] particles;
+var particles;
 
 function setup() {
   createCanvas(400, 300);
-  particles = new Particle [100];
+  particles = new Array(100);
   for (var i = 0; i < particles.length; i++) {
     particles[i] = new Particle(random(width), random(height));
   }

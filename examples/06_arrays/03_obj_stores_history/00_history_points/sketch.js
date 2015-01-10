@@ -1,5 +1,5 @@
-Particle p1;
-Particle p2;
+var p1;
+var p2;
 
 function setup() {
   createCanvas(600,400);
