@@ -112,7 +112,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Class 7 -- Images  -- Tues, 1/13/15
 * Homework 5
 
-## Class 8 -- Field Trip -- Wed, 1/14/15
+## Class 8 -- Field Trip & Data -- Wed, 1/14/15
 * Studio visit to [Random International](http://random-international.com/) and the [V&A Museum](http://www.vam.ac.uk/). 
 * Meet at 10:30am (exact schedule TBA)
 * 1 hour afternoon session on data
