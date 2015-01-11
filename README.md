@@ -89,7 +89,6 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   - Principles and Theory (Encapsulation)
   - JS literal object
   - Object "constructor" function
-- [Arrays](https://github.com/shiffman/LearningProcessing/tree/master/chp09_arrays-p5.js)
 * [Homework 3](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-3)
 
 ## Class 5 -- Day Trip to Bletchley Park -- Fri, 1/9/15
@@ -97,10 +96,20 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * 8:55 am, meet at Guilford House
 * Estimated return: 4:30pm
 
-## Class 6 -- Images -- Mon, 1/12/15
+## Class 6 -- Arrays and Loops -- Mon, 1/12/15
+- [Review loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
+  - while
+  - for
+- [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
+   - Resizing an array
+   - Other array functions
+- [A String is like an array of characters](http://shiffman.net/teaching/a2z/week1/#strings) 
+- [An image is like an array of pixels](http://p5js.org/reference/#/p5/pixels[]) 
+- Related Reading
+    - Chapters 6 and 9 from Learning Processing.
 * Homework 4
 
-## Class 7 -- TBA -- Tues, 1/13/15
+## Class 7 -- Images -- Tues, 1/13/15
 
 ## Class 8 - Data -- Wed, 1/14/15
 * Studio visit to [Random International](http://random-international.com/) and the [V&A Museum](http://www.vam.ac.uk/).
