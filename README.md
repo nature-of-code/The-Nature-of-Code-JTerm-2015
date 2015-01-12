@@ -123,7 +123,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ## Class 9 - Physics -- Thurs, 1/15/15 -- 2pm - 5pm
 * Guest speaker: [Stefanie Posavec](http://www.stefanieposavec.co.uk/)
-* Note class will meet in afternoon instead of morning
+* Note later meeting time of 2 pm
 
 ## Class 10 -- Field Trip -- Fri, 1/16/15
 * Schedule TBA
