@@ -106,7 +106,10 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 - [A String is like an array of characters](http://shiffman.net/teaching/a2z/week1/#strings) 
 - [An image is like an array of pixels](http://p5js.org/reference/#/p5/pixels[]) 
 - Related Reading
-    - Chapters 6 and 9 from Learning Processing.
+    - Chapters 6 and 9 from Learning Processing cover the same concepts in the Java programming language.
+    - [Array tutorial from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Arrays)
+    - [Array tutorial from JQuery](https://learn.jquery.com/javascript-101/arrays/)
+    - For a JavaScript tutorial about arrays I would suggest [Chapter 4 of Eloquent JavaScript](http://eloquentjavascript.net/04_data.html) though I would warn that it gets a bit more advanced than what we need for p5.js sketches.    
 * Homework 4
 
 ## Class 7 -- Images  -- Tues, 1/13/15
