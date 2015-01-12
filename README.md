@@ -113,7 +113,6 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Homework 4
 
 ## Class 7 -- Images and Pixels -- Tues, 1/13/15
---------------------------------
 - There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](http://icm.shiffman.net/15.0/)
 - Images
     - Load and display images
