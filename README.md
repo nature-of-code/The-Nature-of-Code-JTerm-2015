@@ -127,6 +127,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - Exercise: Make a mirror that paints your portrait
 - Intro to Computer Vision
 - Related reading:
+    - [Computer Vision for Artists and Designers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
     - Learning Processing, Chapters 15-16
 * Homework 5
 
