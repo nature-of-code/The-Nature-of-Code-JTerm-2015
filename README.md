@@ -110,7 +110,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - [Array tutorial from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Arrays)
     - [Array tutorial from JQuery](https://learn.jquery.com/javascript-101/arrays/)
     - For a JavaScript tutorial about arrays I would suggest [Chapter 4 of Eloquent JavaScript](http://eloquentjavascript.net/04_data.html) though I would warn that it gets a bit more advanced than what we need for p5.js sketches.    
-* Homework 4
+* [Homework 4](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-3)
 
 ## Class 7 -- Images and Pixels -- Tues, 1/13/15
 - There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](http://icm.shiffman.net/15.0/)
