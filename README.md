@@ -112,7 +112,23 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - For a JavaScript tutorial about arrays I would suggest [Chapter 4 of Eloquent JavaScript](http://eloquentjavascript.net/04_data.html) though I would warn that it gets a bit more advanced than what we need for p5.js sketches.    
 * Homework 4
 
-## Class 7 -- Images  -- Tues, 1/13/15
+## Class 7 -- Images and Pixels -- Tues, 1/13/15
+--------------------------------
+- There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](http://icm.shiffman.net/15.0/)
+- Images
+    - Load and display images
+    - Writing pixels to screen
+    - Reading image pixels, image processing: brightness, threshold, etc
+    - [Chapter 15 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp15_images_pixels)
+    - In class exercise: make an interactive image processing filter
+- Video: 
+    - Live video (Capture) and movie playback (Movie)
+    - Drawing shapes on screen colored by pixels
+    - [Chapter 16 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp16_video)
+    - Exercise: Make a mirror that paints your portrait
+- Intro to Computer Vision
+- Related reading:
+    - Learning Processing, Chapters 15-16
 * Homework 5
 
 ## Class 8 -- Field Trip & Data -- Wed, 1/14/15 -- 11am - 3:30 pm
