@@ -109,21 +109,23 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - Chapters 6 and 9 from Learning Processing.
 * Homework 4
 
-## Class 7 -- Images -- Tues, 1/13/15
+## Class 7 -- Images  -- Tues, 1/13/15
+* Homework 5
 
-## Class 8 - Data -- Wed, 1/14/15
-* Studio visit to [Random International](http://random-international.com/) and the [V&A Museum](http://www.vam.ac.uk/).
+## Class 8 -- Field Trip & Data -- Wed, 1/14/15
+* Studio visit to [Random International](http://random-international.com/) and the [V&A Museum](http://www.vam.ac.uk/). 
+* Meet at 10:30am (exact schedule TBA)
+* 1 hour afternoon session on data
 
 ## Class 9 - Physics -- Thurs, 1/15/15
-* Homework 7
+* Homework 6
 * Guest speaker: [Stefanie Posavec](http://www.stefanieposavec.co.uk/)
 * Note class will meet in afternoon instead of morning
 
-## Class 10 - Agents / Complexity -- Fri, 1/16/15
-* Homework 8
-* Note class will meet in afternoon instead of morning
+## Class 10 -- Field Trip -- Fri, 1/16/15
+* Schedule TBA
 
-## Class 11 - Fractals / CA -- Mon, 1/19/15
+## Class 11 - Complexity (Agents, Fractals, CA) -- Mon, 1/19/15
 * Final Project Proposal
 
 ## Class 12 - Evolutionary Computing -- Tues, 1/20/15
