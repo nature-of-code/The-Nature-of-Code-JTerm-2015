@@ -1,4 +1,3 @@
-//var particle;
 var particles = new Array(500);
 
 function setup() {

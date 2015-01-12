@@ -1,5 +1,4 @@
-var t1 = 0;
-var t2 = 10000;
+var t = 0;
 
 function setup() {
   createCanvas(360,300);
@@ -10,13 +9,17 @@ function draw() {
 
   fill(255);
   
-  //var x = random(0, width);
-  var x = noise(t1)*width
-  var y = noise(t2)*height;
-  ellipse(x, y, 20, 20);
+  // A random x location
+  // var x = random(0, width);
 
-  t1 = t1 + 0.02;
-  t2 = t2 + 0.02;
+  // Using noise
+  // Must specify "time" argument
+  // Always get a value between 0 and 1 back
+  var x = noise(t)*width
+
+  ellipse(x, 150, 20, 20);
+
+  t = t + 0.02;
 
 }
 

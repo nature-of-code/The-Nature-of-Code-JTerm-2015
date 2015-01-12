@@ -10,11 +10,6 @@ function draw() {
     particles[i].update();
     particles[i].display();
   }
-
-  while (particles.length > 3) {
-    particles.splice(0,1);
-  }
-
 }
 
 function mousePressed() {
