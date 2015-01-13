@@ -4,7 +4,6 @@ function setup() {
 
 function draw() {
   loadPixels();
-
   for (var y = 0; y < height; y++) {
     for (var x = 0; x < width; x++) {
       // var d = dist(x, y, mouseX, mouseY);
@@ -18,12 +17,8 @@ function draw() {
       pixels[loc+1] = y;
       pixels[loc+2] = 0;
       pixels[loc+3] = 255; 
-
-
     }
   }
-
-  
   updatePixels();
 }
 
