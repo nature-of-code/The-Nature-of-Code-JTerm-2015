@@ -134,11 +134,12 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Class 8 -- Field Trip & Data -- Wed, 1/14/15 -- 11am - 3:30 pm
 * Studio visit to [Random International](http://random-international.com/) and the [V&A Museum](http://www.vam.ac.uk/). 
 * Meet at 10:45 am at Random International (our tour is scheduled for 11, see directions sent via e-mail).
-* 12:00 pm - 2:00 pm - trip to V&A and lunch. I'll head directly to the V&A after the trip and you can join me or just go by there on your own time.
-* 2:30 pm - 3:30 pm - meet at NYU London for one hour class about data.
+* 12:00 pm - 1:00 pm - trip to V&A. We'll head directly to the V&A after the trip, someone from Random International will meet us there to demo the exhibit.
+* 2:30 pm - 3:30 pm - meet at NYU London for one hour class to finish up images and talk about data.
 
 ## Class 9 - Physics -- Thurs, 1/15/15 -- 2pm - 5pm
 * Guest speaker: [Stefanie Posavec](http://www.stefanieposavec.co.uk/)
+* Guest speaker: [Marcin Ignac](http://marcinignac.com/)
 * Note later meeting time of 2 pm
 
 ## Class 10 -- Field Trip -- Fri, 1/16/15
