@@ -12,7 +12,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(200, 200);
+  createCanvas(800, 600);
   destination = createImage(source.width, source.height, RGB);
 
   // Temporary-ish fix for retina machines
@@ -20,6 +20,7 @@ function setup() {
 }
 
 function draw() {
+  background(0);
   var threshold = 127;
   
   // We are going to look at both image's pixels
@@ -51,5 +52,6 @@ function draw() {
   // We changed the pixels in destination
   destination.updatePixels();
   // Display the destination
-  image(destination,0,0);
+  image(source,0,0);
+  image(destination,200,0);
 }
