@@ -140,7 +140,19 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Class 9 - Physics -- Thurs, 1/15/15 -- 2pm - 5pm
 * Guest speaker: [Stefanie Posavec](http://www.stefanieposavec.co.uk/)
 * Guest speaker: [Marcin Ignac](http://marcinignac.com/)
-* Note later meeting time of 2 pm
+* Intro to Data
+  * review events and callbacks
+* [Loading local files](https://github.com/shiffman/itp-networked-media/tree/master/week4/01_loading_files)
+* Query strings
+* Web services: AJAX, JSON, and APIs
+  * [Simple JSON examples](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/tree/master/examples/10_data/00_localfiles)
+  * [API examples](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/tree/master/examples/10_data/01_external_data)
+  * [List of possible data sources](https://github.com/ITPNYU/ICM-2014/wiki/Data-Links)
+  * [p5.js notes: Loading-external-files:-AJAX,-XML,-JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+  * [Robyn's notes on AJAX and APIs](https://github.com/robynitp/networkedmedia/wiki/AJAX%2C-JSON%2C-APIs)
+  * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
+
+* Intro to Physics
 
 ## Class 10 -- Field Trip -- Fri, 1/16/15
 * Schedule TBA
