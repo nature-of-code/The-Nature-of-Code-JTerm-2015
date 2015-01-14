@@ -149,10 +149,11 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [API examples](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/tree/master/examples/10_data/01_external_data)
   * [List of possible data sources](https://github.com/ITPNYU/ICM-2014/wiki/Data-Links)
   * [p5.js notes: Loading-external-files:-AJAX,-XML,-JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
-  * [Robyn's notes on AJAX and APIs](https://github.com/robynitp/networkedmedia/wiki/AJAX%2C-JSON%2C-APIs)
   * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
-
 * Intro to Physics
+  * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
+  * [Forces](http://natureofcode.com/book/chapter-2-forces/)
+  * [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 
 ## Class 10 -- Field Trip -- Fri, 1/16/15
 * Schedule TBA
