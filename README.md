@@ -137,7 +137,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * 12:00 pm - 1:00 pm - trip to V&A. We'll head directly to the V&A after the trip, someone from Random International will meet us there to demo the exhibit.
 * 2:30 pm - 3:30 pm - meet at NYU London for one hour class to finish up images and talk about data.
 
-## Class 9 - Physics -- Thurs, 1/15/15 -- 2pm - 5pm
+## Class 9 - Data -- Thurs, 1/15/15 -- 2pm - 5pm
 * Guest speaker: [Stefanie Posavec](http://www.stefanieposavec.co.uk/)
 * Guest speaker: [Marcin Ignac](http://marcinignac.com/)
 * Intro to Data
@@ -150,13 +150,12 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [List of possible data sources](https://github.com/ITPNYU/ICM-2014/wiki/Data-Links)
   * [p5.js notes: Loading-external-files:-AJAX,-XML,-JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
   * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
+
+## Class 10 -- Field Trip -- Fri, 1/16/15
 * Intro to Physics
   * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
   * [Forces](http://natureofcode.com/book/chapter-2-forces/)
   * [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
-
-## Class 10 -- Field Trip -- Fri, 1/16/15
-* Schedule TBA
 
 ## Class 11 - Complexity (Agents, Fractals, CA) -- Mon, 1/19/15
 * Final Project Proposal
