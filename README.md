@@ -151,7 +151,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [p5.js notes: Loading-external-files:-AJAX,-XML,-JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
   * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
 
-## Class 10 -- Field Trip -- Fri, 1/16/15
+## Class 10 -- Intro to Physics -- Fri, 1/16/15
 * Intro to Physics
   * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
   * [Forces](http://natureofcode.com/book/chapter-2-forces/)
