@@ -110,7 +110,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
     - [Array tutorial from Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Arrays)
     - [Array tutorial from JQuery](https://learn.jquery.com/javascript-101/arrays/)
     - For a JavaScript tutorial about arrays I would suggest [Chapter 4 of Eloquent JavaScript](http://eloquentjavascript.net/04_data.html) though I would warn that it gets a bit more advanced than what we need for p5.js sketches.    
-* [Homework 4](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-3)
+* [Homework 4](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-4)
 
 ## Class 7 -- Images and Pixels -- Tues, 1/13/15
 - There are video lessons in progress about these topics in Processing.  They cover all the same content but the syntax in JavaScript is different.  [Videos 15.0 - 15.9](http://icm.shiffman.net/15.0/)
@@ -129,7 +129,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 - Related reading:
     - [Computer Vision for Artists and Designers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
     - Learning Processing, Chapters 15-16
-* Homework 5
+* [Homework 5](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-5)
 
 ## Class 8 -- Field Trip & Data -- Wed, 1/14/15 -- 11am - 3:30 pm
 * Studio visit to [Random International](http://random-international.com/) and the [V&A Museum](http://www.vam.ac.uk/). 
@@ -150,6 +150,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [List of possible data sources](https://github.com/ITPNYU/ICM-2014/wiki/Data-Links)
   * [p5.js notes: Loading-external-files:-AJAX,-XML,-JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
   * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
+* [Homework 6](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-5)
 
 ## Class 10 -- Intro to Physics -- Fri, 1/16/15
 * Intro to Physics
