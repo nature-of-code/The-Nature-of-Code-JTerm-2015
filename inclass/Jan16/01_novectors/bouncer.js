@@ -1,7 +1,9 @@
 
 function Bouncer() {
-  this.pos = createVector(width/2,height/2);
-  this.vel = createVector(0.7, 3);
+  this.x = width/2;
+  this.y = height/2;
+  this.xspeed = 0.7;
+  this.yspeed = 3;
   this.r = 16;
 
   this.display = function() {
