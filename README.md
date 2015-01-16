@@ -150,26 +150,34 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [List of possible data sources](https://github.com/ITPNYU/ICM-2014/wiki/Data-Links)
   * [p5.js notes: Loading-external-files:-AJAX,-XML,-JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
   * [Robyn's Instagram API How To](https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to)
-* [Homework 6](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-5)
+* [Homework 6](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-6)
 
 ## Class 10 -- Intro to Physics -- Fri, 1/16/15
 * Intro to Physics
   * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
   * [Forces](http://natureofcode.com/book/chapter-2-forces/)
   * [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
+  * Additional Reading
+    * Computational Beauty of Nature: introduction
+    * Computational Beauty of Nature: Chapter 16
+    * There are also the [Nature of Code videos](https://vimeo.com/channels/natureofcode).
   * [All examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
   * [Related and past projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
+* [Homework 7](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Assignment-7)
 
 ## Class 11 - Complexity (Agents, Fractals, CA) -- Mon, 1/19/15
-* Final Project Proposal
+* **We will meet from 12:30 - 3:30!**
+* [Create a final project proposal]()
 
 ## Class 12 - Evolutionary Computing -- Tues, 1/20/15
+* **We will be meeting for a field trip at 10am, stay tuned!
 * Final Project Proposal
 
 ## Class 13 - Final Project Workshop -- Wed, 1/21/12
+* **Workshop day, all day in classroom from 10am - 4pm**
 
 ## Class 14 - Final Project Presentations - Thurs, 1/22/15
-
+* **Schedule TBA**
 
 ## Expectations
 * Assignments will include readings, programming exercises, and written documentation of your work.
