@@ -5,6 +5,10 @@ function Bouncer() {
   this.acc = createVector(0, 0);
   this.r = 16;
 
+  this.applyForce = function(force) {
+    this.acc.add(force);
+  }
+
   this.move = function() {
     this.vel.add(this.acc);
     this.pos.add(this.vel);
@@ -20,13 +24,8 @@ function Bouncer() {
       this.pos.x = width;
       this.vel.x *= -1;
     }
-
-
   }
 
-  this.applyForce = function(force) {
-    this.acc.add(force);
-  }
 
 
   this.display = function() {
