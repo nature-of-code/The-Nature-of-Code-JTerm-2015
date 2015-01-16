@@ -41,7 +41,6 @@ function draw() {
     stroke(0);
     strokeWeight(4);
     rect(faces[i].x,faces[i].y,faces[i].width,faces[i].height);
-    test = faces[i];
   }
 
 }

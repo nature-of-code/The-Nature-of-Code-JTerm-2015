@@ -7,8 +7,6 @@ function preload() {
 function setup() {
   createCanvas(480, 320);
   console.log(data.city.name);
-  console.log(data.main.humidity);
-
 }
 
 function draw() {
