@@ -157,6 +157,8 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Vectors](http://natureofcode.com/book/chapter-1-vectors/)
   * [Forces](http://natureofcode.com/book/chapter-2-forces/)
   * [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
+  * [All examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
+  * [Related and past projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
 
 ## Class 11 - Complexity (Agents, Fractals, CA) -- Mon, 1/19/15
 * Final Project Proposal
