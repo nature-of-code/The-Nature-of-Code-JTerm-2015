@@ -10,10 +10,11 @@ function Vehicle(x,y) {
   this.position = createVector(x,y);
   this.r = 6;
   this.maxspeed = 8;
-  this.maxforce = 0.2;
+  this.maxforce = slider.value();
 
   // Method to update location
   this.update = function() {
+    this.maxforce = slider.value();
     // Update velocity
     this.velocity.add(this.acceleration);
     // Limit speed

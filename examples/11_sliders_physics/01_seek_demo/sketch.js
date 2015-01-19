@@ -9,16 +9,33 @@
 // See: http://www.red3d.com/cwr/
 
 var v;
+var slider;
+var txt;
+
+var mouse;
 
 function setup() {
   createCanvas(640,360);
-  v = new Vehicle(width/2, height/2);
+  slider = createSlider(0, 1, 0.76);
+  txt = createP("value");
+  
+  slider.elt.step = 0.01;
+  slider.elt.value = 0.76;
+
+
+  v = new Vehicle(10,10);
+  mouse = createVector(width/2, height/2);
 }
 
 function draw() {
   background(51);
 
-  var mouse = createVector(mouseX, mouseY);
+  txt.html(slider.value());
+
+  if (mouseIsPressed && mouseY < height && mouseX < width) {
+    mouse = createVector(mouseX, mouseY);
+  }
+
 
   // Draw an ellipse at the mouse location
   fill(127);
