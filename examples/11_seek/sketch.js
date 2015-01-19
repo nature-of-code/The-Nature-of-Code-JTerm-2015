@@ -8,21 +8,21 @@
 // One vehicle "seeks"
 // See: http://www.red3d.com/cwr/
 
-Vehicle v;
+var v;
 
-void setup() {
-  size(640, 360);
+function setup() {
+  createCanvas(640,360);
   v = new Vehicle(width/2, height/2);
 }
 
-void draw() {
-  background(255);
+function draw() {
+  background(51);
 
-  PVector mouse = new PVector(mouseX, mouseY);
+  var mouse = createVector(mouseX, mouseY);
 
   // Draw an ellipse at the mouse location
-  fill(200);
-  stroke(0);
+  fill(127);
+  stroke(200);
   strokeWeight(2);
   ellipse(mouse.x, mouse.y, 48, 48);
 
@@ -30,5 +30,5 @@ void draw() {
   v.seek(mouse);
   v.update();
   v.display();
-}
 
+};
