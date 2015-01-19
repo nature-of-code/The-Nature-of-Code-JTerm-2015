@@ -9,7 +9,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Credit Hours 4
 * [Class google group for discussion / questions / announcements](https://groups.google.com/a/itp.nyu.edu/group/nature-of-code-abu-dhabi?hl=en)
 * [Homework wiki](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki)
-* [Field Trip schedule TBA]()
+* Field trip schedule see below
 
 ## Class 1 -- Introduction -- Mon, 1/5/15
 * Meets 2-5pm today (as to not conflict with morning orientation).
@@ -181,6 +181,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ## Class 12 - Final Project Proposals - Tues, 1/20/15
 * **We will be meeting for a field trip at 10am, check your e-mail for directions**
+* We are visiting [Hirsch and Mann](http://www.hirschandmann.com/) and the [Machines Room](http://machinesroom.org/)
 * Final Project Proposal
 
 ## Class 13 - Final Project Workshop -- Wed, 1/21/12
