@@ -175,6 +175,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Introduction to Genetic Algorithms](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
   * [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
 * Reading:
+  * [Craig Reynolds Steering Behavior](http://www.red3d.com/cwr/steer/)
   * Computational Beauty of Nature: Chapter 5-6, 15, 20
 * [Create a final project proposal](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Project-Proposal)
 
