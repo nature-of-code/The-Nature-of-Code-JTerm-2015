@@ -171,9 +171,6 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
   * [Autonomous Agents](http://natureofcode.com/book/chapter-6-autonomous-agents/), [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
   * [Cellular Automata](http://natureofcode.com/book/chapter-7-cellular-automata/), [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp07_CA)
   * [Fractals](http://natureofcode.com/book/chapter-8-fractals/), [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
-* Evolutionary Computing:
-  * [Introduction to Genetic Algorithms](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
-  * [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
 * Reading:
   * [Craig Reynolds Steering Behavior](http://www.red3d.com/cwr/steer/)
   * Computational Beauty of Nature: Chapter 5-6, 15, 20
@@ -182,7 +179,10 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 ## Class 12 - Final Project Proposals - Tues, 1/20/15
 * **We will be meeting for a field trip at 10am, check your e-mail for directions**
 * We are visiting [Hirsch and Mann](http://www.hirschandmann.com/) and the [Machines Room](http://machinesroom.org/)
-* Final Project Proposal
+* Evolutionary Computing:
+  * [Introduction to Genetic Algorithms](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
+  * [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
+* Final Project Proposal discussion
 
 ## Class 13 - Final Project Workshop -- Wed, 1/21/12
 * **Workshop day, all day in classroom from 10am - 4pm**
