@@ -185,7 +185,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Final Project Proposal discussion
 
 ## Class 13 - Final Project Workshop -- Wed, 1/21/12
-* **Workshop day, all day in classroom from 10am - 4pm**
+* [Workshop day, all day in classroom from 10am - 4pm](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Final-Project-Workshop)
 
 ## Class 14 - Final Project Presentations - Thurs, 1/22/15
 * **Schedule TBA**
