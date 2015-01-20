@@ -182,7 +182,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 * Evolutionary Computing:
   * [Introduction to Genetic Algorithms](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
   * [Example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
-* Final Project Proposal discussion
+* [Final Project Proposal discussion](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Project-Proposal)
 
 ## Class 13 - Final Project Workshop -- Wed, 1/21/12
 * [Workshop day, all day in classroom from 10am - 4pm](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Final-Project-Workshop)
